@@ -1,0 +1,19 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "e:\\unreal engine\\projects\\fpsc\\intermediate\\build\\win64\\unrealeditor\\inc\\fpsc\\uht\\fpscgamemode.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "e:\\unreal engine\\projects\\fpsc\\intermediate\\build\\win64\\x64\\fpsceditor\\development\\engine\\sharedpch.engine.cpp20.h.pch",
+        "Includes": [
+            "e:\\unreal engine\\projects\\fpsc\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\fpsc\\definitions.fpsc.h",
+            "e:\\unreal engine\\projects\\fpsc\\source\\fpsc\\fpscgamemode.h",
+            "e:\\unreal engine\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "e:\\unreal engine\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "e:\\unreal engine\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\serverstatreplicator.generated.h",
+            "e:\\unreal engine\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gamemodebase.generated.h",
+            "e:\\unreal engine\\projects\\fpsc\\intermediate\\build\\win64\\unrealeditor\\inc\\fpsc\\uht\\fpscgamemode.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

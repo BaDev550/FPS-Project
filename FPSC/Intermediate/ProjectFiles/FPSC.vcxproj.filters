@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\FPSC.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\FPSC.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\FPSCEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\FPSC">
+      <UniqueIdentifier>{BFB35E68-5E53-3C0E-A471-075D3CDFBFA2}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\FPSC\FPSC.Build.cs">
+      <Filter>Source\FPSC</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\FPSC\FPSC.cpp">
+      <Filter>Source\FPSC</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\FPSC\FPSC.h">
+      <Filter>Source\FPSC</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\FPSC\FPSCCharacter.cpp">
+      <Filter>Source\FPSC</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\FPSC\FPSCCharacter.h">
+      <Filter>Source\FPSC</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\FPSC\FPSCGameMode.cpp">
+      <Filter>Source\FPSC</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\FPSC\FPSCGameMode.h">
+      <Filter>Source\FPSC</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\FPSC\FPSCPlayerController.cpp">
+      <Filter>Source\FPSC</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\FPSC\FPSCPlayerController.h">
+      <Filter>Source\FPSC</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\FPSC\FPSCProjectile.cpp">
+      <Filter>Source\FPSC</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\FPSC\FPSCProjectile.h">
+      <Filter>Source\FPSC</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\FPSC\TP_PickUpComponent.cpp">
+      <Filter>Source\FPSC</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\FPSC\TP_PickUpComponent.h">
+      <Filter>Source\FPSC</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\FPSC\TP_WeaponComponent.cpp">
+      <Filter>Source\FPSC</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\FPSC\TP_WeaponComponent.h">
+      <Filter>Source\FPSC</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

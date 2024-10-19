@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "FPSC",
+			"Path": "..\\Source\\FPSC.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "FPSCEditor",
+			"Path": "..\\Source\\FPSCEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

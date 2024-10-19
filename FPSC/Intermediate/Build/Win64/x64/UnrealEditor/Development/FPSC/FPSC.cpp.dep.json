@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "e:\\unreal engine\\projects\\fpsc\\source\\fpsc\\fpsc.cpp",
+        "ProvidedModule": "",
+        "PCH": "e:\\unreal engine\\projects\\fpsc\\intermediate\\build\\win64\\x64\\fpsceditor\\development\\engine\\sharedpch.engine.cpp20.h.pch",
+        "Includes": [
+            "e:\\unreal engine\\projects\\fpsc\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\fpsc\\definitions.fpsc.h",
+            "e:\\unreal engine\\projects\\fpsc\\source\\fpsc\\fpsc.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
