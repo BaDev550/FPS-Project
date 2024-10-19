@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "e:\\github\\fps-project\\fpsc\\intermediate\\build\\win64\\unrealeditor\\inc\\fpsc\\uht\\weaponmaster.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "e:\\github\\fps-project\\fpsc\\intermediate\\build\\win64\\x64\\fpsceditor\\development\\engine\\sharedpch.engine.cpp20.h.pch",
+        "Includes": [
+            "e:\\github\\fps-project\\fpsc\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\fpsc\\definitions.fpsc.h",
+            "e:\\github\\fps-project\\fpsc\\source\\fpsc\\public\\weapons\\weaponmaster.h",
+            "e:\\github\\fps-project\\fpsc\\intermediate\\build\\win64\\unrealeditor\\inc\\fpsc\\uht\\weaponmaster.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

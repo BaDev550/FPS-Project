@@ -11,6 +11,7 @@
     <None Include="..\..\Source\FPSCEditor.Target.cs">
       <Filter>Source</Filter>
     </None>
+    <None Include="..\..\.vsconfig" />
     <Filter Include="Config">
       <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
     </Filter>
@@ -41,41 +42,53 @@
     <ClInclude Include="..\..\Source\FPSC\FPSC.h">
       <Filter>Source\FPSC</Filter>
     </ClInclude>
-    <ClCompile Include="..\..\Source\FPSC\FPSCCharacter.cpp">
-      <Filter>Source\FPSC</Filter>
+    <Filter Include="Source\FPSC\Private">
+      <UniqueIdentifier>{14292D06-5A3F-3367-8501-F0691925B636}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\FPSC\Private\FPSCPlayerController.cpp">
+      <Filter>Source\FPSC\Private</Filter>
     </ClCompile>
-    <ClInclude Include="..\..\Source\FPSC\FPSCCharacter.h">
-      <Filter>Source\FPSC</Filter>
+    <Filter Include="Source\FPSC\Private\Character">
+      <UniqueIdentifier>{2A65517B-6DF4-33C1-BD27-DA5DE85BACC0}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\FPSC\Private\Character\PlayerCharacter.cpp">
+      <Filter>Source\FPSC\Private\Character</Filter>
+    </ClCompile>
+    <Filter Include="Source\FPSC\Private\GameMode">
+      <UniqueIdentifier>{A7F8D041-3897-3155-929B-8D6430800399}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\FPSC\Private\GameMode\FPSCGameMode.cpp">
+      <Filter>Source\FPSC\Private\GameMode</Filter>
+    </ClCompile>
+    <Filter Include="Source\FPSC\Private\Weapons">
+      <UniqueIdentifier>{1C7482B9-DCF1-399D-A81F-394ADE502BB0}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\FPSC\Private\Weapons\WeaponMaster.cpp">
+      <Filter>Source\FPSC\Private\Weapons</Filter>
+    </ClCompile>
+    <Filter Include="Source\FPSC\Public">
+      <UniqueIdentifier>{23AAC96D-8D66-3F3E-A0BD-8216E8B8C7B9}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\FPSC\Public\FPSCPlayerController.h">
+      <Filter>Source\FPSC\Public</Filter>
     </ClInclude>
-    <ClCompile Include="..\..\Source\FPSC\FPSCGameMode.cpp">
-      <Filter>Source\FPSC</Filter>
-    </ClCompile>
-    <ClInclude Include="..\..\Source\FPSC\FPSCGameMode.h">
-      <Filter>Source\FPSC</Filter>
+    <Filter Include="Source\FPSC\Public\Character">
+      <UniqueIdentifier>{5AC0CE86-DB02-3FBE-B969-99A38EED0F1F}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\FPSC\Public\Character\PlayerCharacter.h">
+      <Filter>Source\FPSC\Public\Character</Filter>
     </ClInclude>
-    <ClCompile Include="..\..\Source\FPSC\FPSCPlayerController.cpp">
-      <Filter>Source\FPSC</Filter>
-    </ClCompile>
-    <ClInclude Include="..\..\Source\FPSC\FPSCPlayerController.h">
-      <Filter>Source\FPSC</Filter>
+    <Filter Include="Source\FPSC\Public\GameMode">
+      <UniqueIdentifier>{48AF02ED-8A2E-3FD1-A638-6030175259E5}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\FPSC\Public\GameMode\FPSCGameMode.h">
+      <Filter>Source\FPSC\Public\GameMode</Filter>
     </ClInclude>
-    <ClCompile Include="..\..\Source\FPSC\FPSCProjectile.cpp">
-      <Filter>Source\FPSC</Filter>
-    </ClCompile>
-    <ClInclude Include="..\..\Source\FPSC\FPSCProjectile.h">
-      <Filter>Source\FPSC</Filter>
-    </ClInclude>
-    <ClCompile Include="..\..\Source\FPSC\TP_PickUpComponent.cpp">
-      <Filter>Source\FPSC</Filter>
-    </ClCompile>
-    <ClInclude Include="..\..\Source\FPSC\TP_PickUpComponent.h">
-      <Filter>Source\FPSC</Filter>
-    </ClInclude>
-    <ClCompile Include="..\..\Source\FPSC\TP_WeaponComponent.cpp">
-      <Filter>Source\FPSC</Filter>
-    </ClCompile>
-    <ClInclude Include="..\..\Source\FPSC\TP_WeaponComponent.h">
-      <Filter>Source\FPSC</Filter>
+    <Filter Include="Source\FPSC\Public\Weapons">
+      <UniqueIdentifier>{C09660D4-4FE7-3B16-87FE-C25B45524411}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\FPSC\Public\Weapons\WeaponMaster.h">
+      <Filter>Source\FPSC\Public\Weapons</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>

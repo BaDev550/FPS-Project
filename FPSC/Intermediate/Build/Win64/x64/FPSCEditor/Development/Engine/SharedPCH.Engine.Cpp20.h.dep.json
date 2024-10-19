@@ -1,11 +1,11 @@
 {
     "Version": "1.2",
     "Data": {
-        "Source": "e:\\unreal engine\\projects\\fpsc\\intermediate\\build\\win64\\x64\\fpsceditor\\development\\engine\\sharedpch.engine.cpp20.cpp",
+        "Source": "e:\\github\\fps-project\\fpsc\\intermediate\\build\\win64\\x64\\fpsceditor\\development\\engine\\sharedpch.engine.cpp20.cpp",
         "ProvidedModule": "",
         "Includes": [
-            "e:\\unreal engine\\projects\\fpsc\\intermediate\\build\\win64\\x64\\fpsceditor\\development\\engine\\sharedpch.engine.cpp20.h",
-            "e:\\unreal engine\\projects\\fpsc\\intermediate\\build\\win64\\x64\\fpsceditor\\development\\engine\\shareddefinitions.engine.cpp20.h",
+            "e:\\github\\fps-project\\fpsc\\intermediate\\build\\win64\\x64\\fpsceditor\\development\\engine\\sharedpch.engine.cpp20.h",
+            "e:\\github\\fps-project\\fpsc\\intermediate\\build\\win64\\x64\\fpsceditor\\development\\engine\\shareddefinitions.engine.cpp20.h",
             "e:\\unreal engine\\ue_5.3\\engine\\source\\runtime\\engine\\public\\enginesharedpch.h",
             "e:\\unreal engine\\ue_5.3\\engine\\source\\runtime\\slate\\public\\slatesharedpch.h",
             "e:\\unreal engine\\ue_5.3\\engine\\source\\runtime\\coreuobject\\public\\coreuobjectsharedpch.h",

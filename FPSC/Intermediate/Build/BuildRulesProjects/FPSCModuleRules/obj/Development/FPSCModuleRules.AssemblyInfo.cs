@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FPSCModuleRules")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Development")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+89f3524177b5e192efeb25842ee1d8df924f3959")]
 [assembly: System.Reflection.AssemblyProductAttribute("FPSCModuleRules")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FPSCModuleRules")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

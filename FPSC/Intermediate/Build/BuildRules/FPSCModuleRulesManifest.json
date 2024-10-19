@@ -1,8 +1,8 @@
 {
 	"SourceFiles": [
-		"E:\\Unreal Engine\\Projects\\FPSC\\Source\\FPSC\\FPSC.Build.cs",
-		"E:\\Unreal Engine\\Projects\\FPSC\\Source\\FPSC.Target.cs",
-		"E:\\Unreal Engine\\Projects\\FPSC\\Source\\FPSCEditor.Target.cs"
+		"E:\\GitHub\\FPS-Project\\FPSC\\Source\\FPSC\\FPSC.Build.cs",
+		"E:\\GitHub\\FPS-Project\\FPSC\\Source\\FPSC.Target.cs",
+		"E:\\GitHub\\FPS-Project\\FPSC\\Source\\FPSCEditor.Target.cs"
 	],
 	"EngineVersion": "5.3.2"
 }
